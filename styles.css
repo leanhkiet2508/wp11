@@ -3,6 +3,7 @@ body{
 }
 
 .ex {
+  width: 400px;
   border: 2px solid #dcd6cd;
   border-radius: 2px;
   background-color: #fdfcf7;
