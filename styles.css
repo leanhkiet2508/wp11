@@ -1,0 +1,29 @@
+body{
+  padding: 25px;
+}
+
+.ex {
+  border: 2px solid #dcd6cd;
+  border-radius: 2px;
+  background-color: #fdfcf7;
+  padding: 10px 20px;
+  box-shadow: 4px #b5ac91;
+}
+
+h1 {
+  width: fit-content;
+  border-top: 2px solid black;
+  text-shadow: 2px 2px 2px #d36868;
+  box-shadow: 0 -2px #d36868;
+}
+
+h2 {
+  font-style: italic;
+  outline: 2px solid yellow;
+  border: 2px solid #b5ac91;
+}
+
+h3 {
+  text-align: end;
+  text-decoration: underline;
+}
